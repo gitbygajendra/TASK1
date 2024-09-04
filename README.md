@@ -17,19 +17,3 @@ Demonstrates classification techniques to distinguish Iris species.
 Visualizes data and model performance for comprehensive analysis.
 Offers insights into feature importance for accurate classification.
 Encourages experimentation with different classification algorithms.
-
-# Getting Started
-
-Clone the repository: git clone https://github.com/yourusername/iris-species-classification.git
-Install required packages: pip install -r requirements.txt
-Explore Jupyter notebooks for data exploration, model building, and analysis.
-Customize model hyperparameters and try various classification techniques.
-Gain insights into feature importance for accurate species classification.
-
-# Contributions
-
-Contributions are welcome! Fork the repository, enhance the project, and create pull requests to contribute to this educational endeavor.
-
-# Disclaimer
-
-While this project showcases the potential for accurate species classification, it's essential to recognize that real-world botanical classification can involve more complex factors. Always seek expert guidance for critical botanical classifications.
